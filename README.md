@@ -10,7 +10,7 @@ Flappy Bird id quiet a popular game across diffrent platforms. This Repositry is
   
 ## Support
 
-For support, email chaitanyapratapsingh24@gamil.com or Message me on Instagram at [@chaitanya._24](https://www.instagram.com/chaitanya._24/)
+For support, email chaitanyapratapsingh24@gmail.com or Message me on Instagram at [@chaitanya._24](https://www.instagram.com/chaitanya._24/)
 
   
 ## Screenshots
