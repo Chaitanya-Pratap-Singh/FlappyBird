@@ -19,4 +19,9 @@ For support, email chaitanyapratapsingh24@gmail.com or Message me on Instagram a
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1F5jlt9UNI1frKeB9vHDQ6tjfgv9E9zlp)  
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=1zAWffkLNgyOX4CJ5G0-tqkEyM94o988S)
 
+## Requirments/Dependencies
+```python
+pip install pygame
+```
+
   
